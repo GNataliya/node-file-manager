@@ -1,0 +1,12 @@
+{
+  "name": "node-file-manager",
+  "version": "1.0.0",
+  "description": "task file-manager for RSS Cshool",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "GNataliya",
+  "license": "ISC"
+}
